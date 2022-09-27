@@ -1,2 +1,2 @@
-# 2gip.p1
+# 2gp_p1
 La primera pràctica
